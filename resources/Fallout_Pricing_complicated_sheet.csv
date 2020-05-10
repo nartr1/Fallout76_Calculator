@@ -1,0 +1,52 @@
+GunName,GunType,GunValue,GunLegacy,MeleeName,MeleeType,MeleeValue,MeleeLegacy,Prefix,PrefixValue,Major,MajorValue,WeaponType,Minor,MinorValue,WeaponTypeMinor
+.44 pistol,Pistol,low,no,Baton,1h,low,no,Anti Armor (AA),High,50% limb damage (LD),Medium,Both,1 Agility (1a),Low,Both
+10mm pistol ,pistol,medium,no,Bowie Knife,1h,low,no,Assassins (AS),Medium,40% Swing Speed (SS),High,Melee,1 Endurance (1E),High,Melee
+Black powder pistol,pistol,medium,no,Chinese Sword,1h,low,no,Beserkers (BS),Low,40% Attack Power (AT),Medium,Melee,1 Perception (1P),Medium,Ranged
+Single action revolver,pistol,Worthless,no,Combat Knife,1h,medium,no,Bloodied (B),High,Reflect 50% Block (RB),Low,melee,1 Strength (1S),High,Melee
+Western Revolver,pistol,low,no,Cultist Blade,1h,low,no,Double (D),LEGACY,50% vats crit (VC),Medium,Both,15% reload (RS),High,Ranged
+10mm submachine,rifle,medium,no,Cultist Dagger,1h,low,no,Executioners (EXE),Medium,25% fire rate (25),High,Ranged,25% less VATS (VA),Medium,Both
+Submachine,rifle,medium,no,Guitar Sword,1h,low,no,Exterminators (EXT),Low,40% Bashing Damage (BD),Low,Ranged,250 DR Reload (DR),Medium,Ranged
+Assault rifle,rifle,medium,no,Hatchet,1h,low,no,Furious (F),Medium,10% aim damage (10D),Medium,Ranged,50 DR Aiming (DA),High,Ranged
+Black Powder Rifle,rifle,medium,no,Lead Pipe,1h,low,no,Ghoul Slayers (G),low,Bullets Explode (E) ,High,Ranged,90% Reduced Weight (RW),High,Both
+Combat Rifle,rifle,medium,no,Machete,1h,low,no,Hunters (H),low,33% VATS hit chance,Medium,Both,Faster Aim Move (FA),Medium,Ranged
+Crossbow,rifle,low,no,Pipe Wrench,1h,low,no,Instigating (I),Medium,,,,15% damage block (DB),High,Melee
+The Dragon,rifle (legacy),High,Yes,Revolutionary Sword,1h,low,no,Junkies (J),High,,,,40% damage Power attack (DP),Medium,Melee
+Handmade Rifle,rifle,High,no,Shishkebob,1h,medium,no,Medics (M),Low,,,,15% vats meter (VM),High,Both
+Hunting Rifle,rifle,Medium,no,Sickle,1h,low,no,Mutants (MU),Medium,,,,,,
+Lever Action Rifle,rifle,High,no,Ski Sword,1h,low,no,Mutant Slayer (MS),Low,,,,,,
+Radium Rifle,rifle,High,no,Switchblade,1h,low,no,Nocturnal (N),WORTHLESS,,,,,,
+Railway Rifle,rifle,High,no,Tire Iron,1h,low,no,Quad (Q),High,,,,,,
+Combat Shotgun,shotgun,Medium,no,Baseball Bat,1h,medium,no,Stalkers (Sta),Low,,,,,,
+Double Barreled Shotgun,shotgun,High,no,Board,2h,low,no,Suppressors (SU),Low,,,,,,
+Pump Action Shotgun,shotgun,Medium,no,Bone Club,2h,medium,no,Troubleshooters (T),Low,,,,,,
+Pipe Bolt Action,pistol/rifle,Medium,no,Fire Axe,2h,medium,no,Two Shot (TS),Medium,,,,,,
+Pipe Revolver,pistol/rifle,Medium,no,Golf club,2h,low,no,Vampire (V),High,,,,,,
+Pipe gun,pistol/rifle,Medium,no,Grognaks Axe,2h,high,no,Zealots (Z),Low,,,,,,
+.50cal Machine gun,heavy,High,no,Mr. Handy Buzzsaw,2h,low,no,,,,,,,,
+Broadsider,heavy,low,no,Multi-Purpose Axe,2h,low,no,,,,,,,,
+Flamer,heavy,Medium,yes,Pickaxe,2h,medium,no,,,,,,,,
+Gatling Gun,heavy,High,no,Pitchfork,2h,medium,no,,,,,,,,
+Harpoon Gun,heavy,Medium,yes,Pool Cue,2h,low,no,,,,,,,,
+Light Machine Gun,heavy,High,no,Sledgehammer,2h,high,no,,,,,,,,
+Minigun,heavy,Medium,no,Super Sledge,2h,high,no,,,,,,,,
+Gatling Laser,heavy,Medium,yes,War Drum,2h,low,no,,,,,,,,
+Laser Pistol,pistol/rifle,Medium,yes,Boxing Glove,unarmed,low,no,,,,,,,,
+Ultracite Gatling Laser,heavy,Medium,yes,Death Tambo,unarmed,low,no,,,,,,,,
+Ultracite Laser Pistol,pistol/rifle,low,yes,Deathclaw Gauntlet,unarmed,high,no,,,,,,,,
+Gatling Plasma,heavy,medium,yes,Knuckles,unarmed,low,no,,,,,,,,
+Plasma gun,pistol/rifle,High,no,Meat Hook,unarmed,high,no,,,,,,,,
+Cryolator,heavy,Medium,yes,Mole Miner Gauntlet,unarmed,high,no,,,,,,,,
+Salvaged Assaultron Head,pistol,Low,yes,Power Fist,unarmed,high,no,,,,,,,,
+Tesla Rifle,rifle,High,yes,Sheepsquatch Staff,2h,high,no,,,,,,,,
+Gamma gun,pistol,Medium,yes,Sheepsquatch Club,1h,medium,no,,,,,,,,
+Auto Grenade Launcher,heavy,Low,no,Ripper,1h (legacy),high,yes,,,,,,,,
+Fat Man,heavy,Low,no,Assaultron Blade,1h,medium,,,,,,,,,
+M79,heavy,Low,no,Gauntlet,unarmed,N/A,,,,,,,,,
+Missile Launcher,heavy,Low,no,,,,,,,,,,,,
+Plasma Caster,heavy,N/A,no,,,,,,,,,,,,
+Gauss Shotgun,shotgun,N/A,no,,,,,,,,,,,,
+Gauss Rifle,rifle,N/A,no,,,,,,,,,,,,
+Gauss Pistol,pistol,N/A,no,,,,,,,,,,,,
+Gauss Minigun,heavy,N/A,no,,,,,,,,,,,,
+Bow,rifle,Low,no,,,,,,,,,,,,
+Compound Bow,rifle,High,no,,,,,,,,,,,,
